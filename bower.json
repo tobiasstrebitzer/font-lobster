@@ -1,0 +1,22 @@
+{
+  "name": "font-lobster",
+  "version": "1.0.2",
+  "description": "An HTML import for Lobster",
+  "authors": [
+    "Tobias Strebitzer <tobias.strebitzer@magloft.com>"
+  ],
+  "keywords": [
+    "font",
+    "lobster"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/PolymerElements/font-lobster.git"
+  },
+  "main": "lobster.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/tobiasstrebitzer/font-lobster/",
+  "ignore": [
+    "/.*"
+  ]
+}
